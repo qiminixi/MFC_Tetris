@@ -5,4 +5,6 @@ Level will add by one if the player eliminated a line, and the fall speed of blo
 
 ![screenshot](https://github.com/qiminixi/MFC_Tetris/blob/master/release/screenshot.png)
 
+If you want to run the application on your computer, please download all the file in `release folder` except screenshot.png.  
+
 Mark here, find image resources to make this game perfect.
